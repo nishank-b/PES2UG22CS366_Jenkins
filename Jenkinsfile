@@ -16,7 +16,7 @@ pipeline {
                 script {
                     echo 'Running Tests...'
                     sh 'chmod +x PES2UG22CS366-1'  // Ensure execute permissions
-                    sh './PES2UG22CS366-1'  // Execute compiled file
+                    sh './PES2UG22CS396-1'  // Execute compiled file
                 }
             }
         }
